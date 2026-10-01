@@ -1,3 +1,4 @@
+import { Prisma } from "@prisma/client";
 import { prisma } from "@/lib/db";
 import { hashPassword } from "@/lib/auth";
 
@@ -12,13 +13,19 @@ export async function ensureCounsellor() {
   }
   const existing = await prisma.user.findFirst({ where: { role: "counsellor" } });
   if (!existing) {
-    await prisma.user.create({
-      data: {
-        email,
-        passwordHash: await hashPassword(password),
-        role: "counsellor",
-      },
-    });
+    try {
+      await prisma.user.create({
+        data: {
+          email,
+          passwordHash: await hashPassword(password),
+          role: "counsellor",
+        },
+      });
+    } catch (error) {
+      const duplicate =
+        error instanceof Prisma.PrismaClientKnownRequestError && error.code === "P2002";
+      if (!duplicate) throw error;
+    }
   }
   seeded = true;
 }
