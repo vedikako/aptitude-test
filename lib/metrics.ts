@@ -26,6 +26,17 @@ export function noteRequest(durationMs: number, status: number) {
   if (status >= 500) current.errors += 1;
 }
 
+export async function recordPage(work: () => Promise<void>) {
+  const started = Date.now();
+  try {
+    await work();
+    noteRequest(Date.now() - started, 200);
+  } catch (error) {
+    noteRequest(Date.now() - started, 500);
+    throw error;
+  }
+}
+
 export function renderMetrics() {
   const current = state();
   const uptime = (Date.now() - current.startedAt) / 1000;
