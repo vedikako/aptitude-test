@@ -1,0 +1,637 @@
+{
+  "key": "learning_style",
+  "title": "Learning style",
+  "minutes": 15,
+  "instructions": "Every question is a statement. Choose Yes or No. There is no right or wrong answer. Your honest answer is the useful one. You have 15 minutes.",
+  "groups": [
+    {
+      "title": "Statements",
+      "questions": [
+        {
+          "id": "ls-01",
+          "prompt": "I remember things better if I hear them",
+          "scale": "auditory",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-02",
+          "prompt": "I remember things better if I write them down",
+          "scale": "kinesthetic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-03",
+          "prompt": "I hate listening to instructions – I'd rather have a go",
+          "scale": "kinesthetic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-04",
+          "prompt": "I work better if I'm not alone",
+          "scale": "auditory",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-05",
+          "prompt": "When I think of spellings I picture them in my head",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-06",
+          "prompt": "I sometimes take notes but I never use them",
+          "scale": "kinesthetic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-07",
+          "prompt": "I like to discuss things before I start to work",
+          "scale": "auditory",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-08",
+          "prompt": "I have to look at someone when they speak to me",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-09",
+          "prompt": "I use my hands to describe things",
+          "scale": "kinesthetic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-10",
+          "prompt": "I find it difficult to concentrate when there's a noise",
+          "scale": "auditory",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-11",
+          "prompt": "I would rather hear new things than read about them",
+          "scale": "auditory",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-12",
+          "prompt": "I like to act and do drama",
+          "scale": "kinesthetic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-13",
+          "prompt": "I like reading out loud",
+          "scale": "auditory",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-14",
+          "prompt": "I like looking at maps and pictures",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-15",
+          "prompt": "I don't like sitting still",
+          "scale": "kinesthetic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-16",
+          "prompt": "I sometimes look out of the window even though I am listening",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-17",
+          "prompt": "I am not very good at remembering jokes",
+          "scale": "auditory",
+          "reverse": true,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-18",
+          "prompt": "I like to walk around when I'm working",
+          "scale": "kinesthetic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-19",
+          "prompt": "I like to doodle and make notes when I learn something new",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-20",
+          "prompt": "I love doing crosswords and word searches",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-21",
+          "prompt": "I don't like working on more than one task at a time",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-22",
+          "prompt": "My desk looks messy to everyone else but I know where things are",
+          "scale": "kinesthetic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-23",
+          "prompt": "I am good at thinking of ideas in my head",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-24",
+          "prompt": "I don't mind noise when I work",
+          "scale": "auditory",
+          "reverse": true,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-25",
+          "prompt": "I remember people's faces",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-26",
+          "prompt": "I remember people's voices",
+          "scale": "auditory",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-27",
+          "prompt": "I like to talk out loud when I'm working",
+          "scale": "auditory",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-28",
+          "prompt": "I like to make lists",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-29",
+          "prompt": "I love telling jokes",
+          "scale": "auditory",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-30",
+          "prompt": "When I get a new idea I like to write it down or draw a picture",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-31",
+          "prompt": "I like to plan my work in my head before I begin",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-32",
+          "prompt": "I like learning the words of songs and rhymes",
+          "scale": "auditory",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-33",
+          "prompt": "I like reading and writing poetry",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-34",
+          "prompt": "I like to work on projects and designing things",
+          "scale": "kinesthetic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-35",
+          "prompt": "It sometimes takes me a while to get started on a new project",
+          "scale": "kinesthetic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-36",
+          "prompt": "I remember things by hearing them in my head",
+          "scale": "auditory",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-37",
+          "prompt": "I learn a practical skill best by watching someone do it",
+          "scale": "visual",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-38",
+          "prompt": "I hate checking my work after I have finished",
+          "scale": "kinesthetic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ls-39",
+          "prompt": "I find it hard to picture things in my head",
+          "scale": "visual",
+          "reverse": true,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

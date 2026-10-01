@@ -1,0 +1,2994 @@
+{
+  "key": "aptitude",
+  "title": "Aptitude",
+  "minutes": 45,
+  "instructions": "This test measures how you work with words and numbers. Choose the best answer. If you are unsure, mark your best guess. Reading passages from the source paper had no recoverable questions, so that set is not included. You have 45 minutes for the whole test.",
+  "groups": [
+    {
+      "title": "Letter jumbles",
+      "questions": [
+        {
+          "id": "ap-j-01",
+          "prompt": "Arrange the letters to make a word: E – T – R – A – S – N – T – R – A – U",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Recommendation"
+            },
+            {
+              "id": "b",
+              "label": "Reluctant"
+            },
+            {
+              "id": "c",
+              "label": "Region"
+            },
+            {
+              "id": "d",
+              "label": "Restaurant"
+            },
+            {
+              "id": "e",
+              "label": "Relocation"
+            }
+          ]
+        },
+        {
+          "id": "ap-j-02",
+          "prompt": "Arrange the letters to make a word: C – S – E – R – U – I – Y – T",
+          "ability": "verbal",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "Security"
+            },
+            {
+              "id": "b",
+              "label": "Substitute"
+            },
+            {
+              "id": "c",
+              "label": "Selective"
+            },
+            {
+              "id": "d",
+              "label": "Sensitive"
+            },
+            {
+              "id": "e",
+              "label": "Submissive"
+            }
+          ]
+        },
+        {
+          "id": "ap-j-03",
+          "prompt": "Arrange the letters to make a word: G – A – L – A – U – G – E – N",
+          "ability": "verbal",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "Luggage"
+            },
+            {
+              "id": "b",
+              "label": "Longitude"
+            },
+            {
+              "id": "c",
+              "label": "Language"
+            },
+            {
+              "id": "d",
+              "label": "Length"
+            },
+            {
+              "id": "e",
+              "label": "Ligament"
+            }
+          ]
+        },
+        {
+          "id": "ap-j-04",
+          "prompt": "Arrange the letters to make a word: O – R – E – P – E – C – U – D – R",
+          "ability": "verbal",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "Procedure"
+            },
+            {
+              "id": "b",
+              "label": "Precaution"
+            },
+            {
+              "id": "c",
+              "label": "Pyramid"
+            },
+            {
+              "id": "d",
+              "label": "Primary"
+            },
+            {
+              "id": "e",
+              "label": "Preliminary"
+            }
+          ]
+        },
+        {
+          "id": "ap-j-05",
+          "prompt": "Arrange the letters to make a word: N – R – I – M – L – I – A – C",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Criterion"
+            },
+            {
+              "id": "b",
+              "label": "Criticism"
+            },
+            {
+              "id": "c",
+              "label": "Crystal"
+            },
+            {
+              "id": "d",
+              "label": "Criminal"
+            },
+            {
+              "id": "e",
+              "label": "Commodity"
+            }
+          ]
+        },
+        {
+          "id": "ap-j-06",
+          "prompt": "Arrange the letters to make a word: L – O – U – B – N – W – G – A",
+          "ability": "verbal",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "Bundle"
+            },
+            {
+              "id": "b",
+              "label": "Banquet"
+            },
+            {
+              "id": "c",
+              "label": "Bungalow"
+            },
+            {
+              "id": "d",
+              "label": "Bangles"
+            },
+            {
+              "id": "e",
+              "label": "Bonding"
+            }
+          ]
+        },
+        {
+          "id": "ap-j-07",
+          "prompt": "Arrange the letters to make a word: R – O – C – E – T – N – C – E",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Cement"
+            },
+            {
+              "id": "b",
+              "label": "Circuit"
+            },
+            {
+              "id": "c",
+              "label": "Credit"
+            },
+            {
+              "id": "d",
+              "label": "Concrete"
+            },
+            {
+              "id": "e",
+              "label": "Constant"
+            }
+          ]
+        },
+        {
+          "id": "ap-j-08",
+          "prompt": "Arrange the letters to make a word: U – I – M – Y – A – R – T – T",
+          "ability": "verbal",
+          "correctOptionId": "e",
+          "options": [
+            {
+              "id": "a",
+              "label": "Mercury"
+            },
+            {
+              "id": "b",
+              "label": "Memory"
+            },
+            {
+              "id": "c",
+              "label": "Mastery"
+            },
+            {
+              "id": "d",
+              "label": "Margin"
+            },
+            {
+              "id": "e",
+              "label": "Maturity"
+            }
+          ]
+        },
+        {
+          "id": "ap-j-09",
+          "prompt": "Arrange the letters to make a word: E – D – E – I – N – D – E – N – P – T – N",
+          "ability": "verbal",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "Dependant"
+            },
+            {
+              "id": "b",
+              "label": "Development"
+            },
+            {
+              "id": "c",
+              "label": "Independent"
+            },
+            {
+              "id": "d",
+              "label": "Implement"
+            },
+            {
+              "id": "e",
+              "label": "Introduction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Odd one out",
+      "questions": [
+        {
+          "id": "ap-o-01",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "b",
+          "options": [
+            {
+              "id": "a",
+              "label": "Sun"
+            },
+            {
+              "id": "b",
+              "label": "Moon"
+            },
+            {
+              "id": "c",
+              "label": "Venus"
+            },
+            {
+              "id": "d",
+              "label": "Mars"
+            },
+            {
+              "id": "e",
+              "label": "Earth"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-02",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "e",
+          "options": [
+            {
+              "id": "a",
+              "label": "Basket"
+            },
+            {
+              "id": "b",
+              "label": "Barrel"
+            },
+            {
+              "id": "c",
+              "label": "Bag"
+            },
+            {
+              "id": "d",
+              "label": "Bucket"
+            },
+            {
+              "id": "e",
+              "label": "Barrow"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-03",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "Ink"
+            },
+            {
+              "id": "b",
+              "label": "Pen"
+            },
+            {
+              "id": "c",
+              "label": "Pencil"
+            },
+            {
+              "id": "d",
+              "label": "Brush"
+            },
+            {
+              "id": "e",
+              "label": "Chalkstick"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-04",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "e",
+          "options": [
+            {
+              "id": "a",
+              "label": "Asia"
+            },
+            {
+              "id": "b",
+              "label": "Australia"
+            },
+            {
+              "id": "c",
+              "label": "America"
+            },
+            {
+              "id": "d",
+              "label": "Africa"
+            },
+            {
+              "id": "e",
+              "label": "England"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-05",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Needle"
+            },
+            {
+              "id": "b",
+              "label": "Pencil"
+            },
+            {
+              "id": "c",
+              "label": "Spade"
+            },
+            {
+              "id": "d",
+              "label": "Candle"
+            },
+            {
+              "id": "e",
+              "label": "Spoon"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-06",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Cricket"
+            },
+            {
+              "id": "b",
+              "label": "Baseball"
+            },
+            {
+              "id": "c",
+              "label": "Football"
+            },
+            {
+              "id": "d",
+              "label": "Billiards"
+            },
+            {
+              "id": "e",
+              "label": "Badminton"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-07",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "e",
+          "options": [
+            {
+              "id": "a",
+              "label": "Violin"
+            },
+            {
+              "id": "b",
+              "label": "Guitar"
+            },
+            {
+              "id": "c",
+              "label": "Sitar"
+            },
+            {
+              "id": "d",
+              "label": "Veena"
+            },
+            {
+              "id": "e",
+              "label": "Piano"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-08",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "e",
+          "options": [
+            {
+              "id": "a",
+              "label": "Camel"
+            },
+            {
+              "id": "b",
+              "label": "Goat"
+            },
+            {
+              "id": "c",
+              "label": "Cow"
+            },
+            {
+              "id": "d",
+              "label": "Sheep"
+            },
+            {
+              "id": "e",
+              "label": "Dog"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-09",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "House"
+            },
+            {
+              "id": "b",
+              "label": "Cottage"
+            },
+            {
+              "id": "c",
+              "label": "School"
+            },
+            {
+              "id": "d",
+              "label": "Palace"
+            },
+            {
+              "id": "e",
+              "label": "Hut"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-10",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "Physics"
+            },
+            {
+              "id": "b",
+              "label": "Chemistry"
+            },
+            {
+              "id": "c",
+              "label": "Geography"
+            },
+            {
+              "id": "d",
+              "label": "Botany"
+            },
+            {
+              "id": "e",
+              "label": "Zoology"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-11",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Hostel"
+            },
+            {
+              "id": "b",
+              "label": "Hotel"
+            },
+            {
+              "id": "c",
+              "label": "Inn"
+            },
+            {
+              "id": "d",
+              "label": "Club"
+            },
+            {
+              "id": "e",
+              "label": "Motel"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-12",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Pineapple"
+            },
+            {
+              "id": "b",
+              "label": "Orange"
+            },
+            {
+              "id": "c",
+              "label": "Malta"
+            },
+            {
+              "id": "d",
+              "label": "Banana"
+            },
+            {
+              "id": "e",
+              "label": "Lemon"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-13",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "Knife"
+            },
+            {
+              "id": "b",
+              "label": "Sword"
+            },
+            {
+              "id": "c",
+              "label": "Gun"
+            },
+            {
+              "id": "d",
+              "label": "Dagger"
+            },
+            {
+              "id": "e",
+              "label": "Razor"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-14",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Explain"
+            },
+            {
+              "id": "b",
+              "label": "Relate"
+            },
+            {
+              "id": "c",
+              "label": "Speak"
+            },
+            {
+              "id": "d",
+              "label": "Sing"
+            },
+            {
+              "id": "e",
+              "label": "Reveal"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-15",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "Ear"
+            },
+            {
+              "id": "b",
+              "label": "Lung"
+            },
+            {
+              "id": "c",
+              "label": "Eye"
+            },
+            {
+              "id": "d",
+              "label": "Heart"
+            },
+            {
+              "id": "e",
+              "label": "Kidney"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-16",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "e",
+          "options": [
+            {
+              "id": "a",
+              "label": "Tailor"
+            },
+            {
+              "id": "b",
+              "label": "Carpenter"
+            },
+            {
+              "id": "c",
+              "label": "Blacksmith"
+            },
+            {
+              "id": "d",
+              "label": "Barber"
+            },
+            {
+              "id": "e",
+              "label": "Engineer"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-17",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "Photo"
+            },
+            {
+              "id": "b",
+              "label": "Snap"
+            },
+            {
+              "id": "c",
+              "label": "Reflection"
+            },
+            {
+              "id": "d",
+              "label": "Portrait"
+            },
+            {
+              "id": "e",
+              "label": "Picture"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-18",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Island"
+            },
+            {
+              "id": "b",
+              "label": "Coast"
+            },
+            {
+              "id": "c",
+              "label": "Harbour"
+            },
+            {
+              "id": "d",
+              "label": "Oasis"
+            },
+            {
+              "id": "e",
+              "label": "Peninsula"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-19",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "e",
+          "options": [
+            {
+              "id": "a",
+              "label": "Classfellow"
+            },
+            {
+              "id": "b",
+              "label": "Colleague"
+            },
+            {
+              "id": "c",
+              "label": "Companion"
+            },
+            {
+              "id": "d",
+              "label": "Co-worker"
+            },
+            {
+              "id": "e",
+              "label": "Neighbour"
+            }
+          ]
+        },
+        {
+          "id": "ap-o-20",
+          "prompt": "Which one does not belong with the others?",
+          "ability": "verbal",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "X-ray"
+            },
+            {
+              "id": "b",
+              "label": "Telephone"
+            },
+            {
+              "id": "c",
+              "label": "Radio"
+            },
+            {
+              "id": "d",
+              "label": "Computer"
+            },
+            {
+              "id": "e",
+              "label": "Television"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Analogies",
+      "questions": [
+        {
+          "id": "ap-a-01",
+          "prompt": "Sailor is to Ship, as Lawyer is to:",
+          "ability": "verbal",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "Legal"
+            },
+            {
+              "id": "b",
+              "label": "Law"
+            },
+            {
+              "id": "c",
+              "label": "Court"
+            },
+            {
+              "id": "d",
+              "label": "Ruling"
+            },
+            {
+              "id": "e",
+              "label": "Case"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-02",
+          "prompt": "Love is to Hate, as Create is to:",
+          "ability": "verbal",
+          "correctOptionId": "b",
+          "options": [
+            {
+              "id": "a",
+              "label": "Make"
+            },
+            {
+              "id": "b",
+              "label": "Destroy"
+            },
+            {
+              "id": "c",
+              "label": "Renovate"
+            },
+            {
+              "id": "d",
+              "label": "Building"
+            },
+            {
+              "id": "e",
+              "label": "Do"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-03",
+          "prompt": "Cow is to Bull, as Mare is to:",
+          "ability": "verbal",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "Animal"
+            },
+            {
+              "id": "b",
+              "label": "Dog"
+            },
+            {
+              "id": "c",
+              "label": "Horse"
+            },
+            {
+              "id": "d",
+              "label": "Meat"
+            },
+            {
+              "id": "e",
+              "label": "Goat"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-04",
+          "prompt": "Camera is to Photo, as Tap is to:",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Pipe"
+            },
+            {
+              "id": "b",
+              "label": "Metal"
+            },
+            {
+              "id": "c",
+              "label": "Height"
+            },
+            {
+              "id": "d",
+              "label": "Water"
+            },
+            {
+              "id": "e",
+              "label": "Children"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-05",
+          "prompt": "Blood is to Veins, as Pencil is to:",
+          "ability": "verbal",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "Lead"
+            },
+            {
+              "id": "b",
+              "label": "Write"
+            },
+            {
+              "id": "c",
+              "label": "Rubber"
+            },
+            {
+              "id": "d",
+              "label": "Pen"
+            },
+            {
+              "id": "e",
+              "label": "Eye"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-06",
+          "prompt": "Moon is to Satellite, as Earth is to:",
+          "ability": "verbal",
+          "correctOptionId": "b",
+          "options": [
+            {
+              "id": "a",
+              "label": "Sun"
+            },
+            {
+              "id": "b",
+              "label": "Planet"
+            },
+            {
+              "id": "c",
+              "label": "Solar System"
+            },
+            {
+              "id": "d",
+              "label": "Asteroid"
+            },
+            {
+              "id": "e",
+              "label": "Galaxy"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-07",
+          "prompt": "Clock is to Time, as Thermometer is to:",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Heat"
+            },
+            {
+              "id": "b",
+              "label": "Radiation"
+            },
+            {
+              "id": "c",
+              "label": "Energy"
+            },
+            {
+              "id": "d",
+              "label": "Temperature"
+            },
+            {
+              "id": "e",
+              "label": "Humidity"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-08",
+          "prompt": "Paw is to Cat, as Hoof is to:",
+          "ability": "verbal",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "Horse"
+            },
+            {
+              "id": "b",
+              "label": "Lion"
+            },
+            {
+              "id": "c",
+              "label": "Lamb"
+            },
+            {
+              "id": "d",
+              "label": "Elephant"
+            },
+            {
+              "id": "e",
+              "label": "Mouse"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-09",
+          "prompt": "Scribble is to Write, as Stammer is to:",
+          "ability": "verbal",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "Walk"
+            },
+            {
+              "id": "b",
+              "label": "Play"
+            },
+            {
+              "id": "c",
+              "label": "Speak"
+            },
+            {
+              "id": "d",
+              "label": "Dance"
+            },
+            {
+              "id": "e",
+              "label": "Run"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-10",
+          "prompt": "Gun is to Bullet, as Chimney is to:",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Ground"
+            },
+            {
+              "id": "b",
+              "label": "House"
+            },
+            {
+              "id": "c",
+              "label": "Roof"
+            },
+            {
+              "id": "d",
+              "label": "Smoke"
+            },
+            {
+              "id": "e",
+              "label": "Floor"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-11",
+          "prompt": "Breeze is to Cyclone, as Drizzle is to:",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Earthquake"
+            },
+            {
+              "id": "b",
+              "label": "Storm"
+            },
+            {
+              "id": "c",
+              "label": "Flood"
+            },
+            {
+              "id": "d",
+              "label": "Downpour"
+            },
+            {
+              "id": "e",
+              "label": "Wind"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-12",
+          "prompt": "Car is to Garage, as Aeroplane is to:",
+          "ability": "verbal",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "Port"
+            },
+            {
+              "id": "b",
+              "label": "Depot"
+            },
+            {
+              "id": "c",
+              "label": "Hangar"
+            },
+            {
+              "id": "d",
+              "label": "Harbour"
+            },
+            {
+              "id": "e",
+              "label": "Road"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-13",
+          "prompt": "Acting is to Theatre, as Gambling is to:",
+          "ability": "verbal",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "Casino"
+            },
+            {
+              "id": "b",
+              "label": "Club"
+            },
+            {
+              "id": "c",
+              "label": "Bar"
+            },
+            {
+              "id": "d",
+              "label": "Gym"
+            },
+            {
+              "id": "e",
+              "label": "Pool"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-14",
+          "prompt": "Former is to Later, as Elder is to:",
+          "ability": "verbal",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "Older"
+            },
+            {
+              "id": "b",
+              "label": "Aged"
+            },
+            {
+              "id": "c",
+              "label": "Younger"
+            },
+            {
+              "id": "d",
+              "label": "Next"
+            },
+            {
+              "id": "e",
+              "label": "Tailor"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-15",
+          "prompt": "Ocean is to Water, as Glacier is to:",
+          "ability": "verbal",
+          "correctOptionId": "b",
+          "options": [
+            {
+              "id": "a",
+              "label": "Refrigerator"
+            },
+            {
+              "id": "b",
+              "label": "Ice"
+            },
+            {
+              "id": "c",
+              "label": "Mountain"
+            },
+            {
+              "id": "d",
+              "label": "Cave"
+            },
+            {
+              "id": "e",
+              "label": "Mixer"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-16",
+          "prompt": "King is to Throne, as Rider is to:",
+          "ability": "verbal",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "Seat"
+            },
+            {
+              "id": "b",
+              "label": "Horse"
+            },
+            {
+              "id": "c",
+              "label": "Saddle"
+            },
+            {
+              "id": "d",
+              "label": "Chair"
+            },
+            {
+              "id": "e",
+              "label": "Table"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-17",
+          "prompt": "Entry is to Exit, as Permit is to:",
+          "ability": "verbal",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "Prohibit"
+            },
+            {
+              "id": "b",
+              "label": "Allow"
+            },
+            {
+              "id": "c",
+              "label": "Plan"
+            },
+            {
+              "id": "d",
+              "label": "Make"
+            },
+            {
+              "id": "e",
+              "label": "Hate"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-18",
+          "prompt": "Snow is to White, as Coal is to:",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Train"
+            },
+            {
+              "id": "b",
+              "label": "Red"
+            },
+            {
+              "id": "c",
+              "label": "Word"
+            },
+            {
+              "id": "d",
+              "label": "Black"
+            },
+            {
+              "id": "e",
+              "label": "Green"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-19",
+          "prompt": "Painting is to Artist, as Symphony is to:",
+          "ability": "verbal",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "Novelist"
+            },
+            {
+              "id": "b",
+              "label": "Poet"
+            },
+            {
+              "id": "c",
+              "label": "Essayist"
+            },
+            {
+              "id": "d",
+              "label": "Composer"
+            },
+            {
+              "id": "e",
+              "label": "Author"
+            }
+          ]
+        },
+        {
+          "id": "ap-a-20",
+          "prompt": "Dawn is to Dusk, as Inauguration is to:",
+          "ability": "verbal",
+          "correctOptionId": "b",
+          "options": [
+            {
+              "id": "a",
+              "label": "Invitation"
+            },
+            {
+              "id": "b",
+              "label": "Farewell"
+            },
+            {
+              "id": "c",
+              "label": "Repetition"
+            },
+            {
+              "id": "d",
+              "label": "Organization"
+            },
+            {
+              "id": "e",
+              "label": "Action"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Numerical problems",
+      "questions": [
+        {
+          "id": "ap-n-01",
+          "prompt": "There are 30 white balls in the basket. Now 30% of them are replaced by red balls. How many white balls remain?",
+          "ability": "numerical",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "10"
+            },
+            {
+              "id": "b",
+              "label": "12"
+            },
+            {
+              "id": "c",
+              "label": "9"
+            },
+            {
+              "id": "d",
+              "label": "21"
+            },
+            {
+              "id": "e",
+              "label": "6"
+            }
+          ]
+        },
+        {
+          "id": "ap-n-02",
+          "prompt": "Two numbers were added and the square of that sum came to 81. Which pair are those numbers?",
+          "ability": "numerical",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "6 and 3"
+            },
+            {
+              "id": "b",
+              "label": "4 and 6"
+            },
+            {
+              "id": "c",
+              "label": "1 and 5"
+            },
+            {
+              "id": "d",
+              "label": "2 and 6"
+            },
+            {
+              "id": "e",
+              "label": "3 and 5"
+            }
+          ]
+        },
+        {
+          "id": "ap-n-03",
+          "prompt": "A rubber sheet of 4 metres gets stretched to 5 metres when pulled. A pulled rubber sheet measures 25 metres. What was the original size?",
+          "ability": "numerical",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "20"
+            },
+            {
+              "id": "b",
+              "label": "17"
+            },
+            {
+              "id": "c",
+              "label": "30"
+            },
+            {
+              "id": "d",
+              "label": "22"
+            },
+            {
+              "id": "e",
+              "label": "10"
+            }
+          ]
+        },
+        {
+          "id": "ap-n-04",
+          "prompt": "A box of one dozen pencils costs Rs. 12. A set of 3 pens costs Rs. 15. How many pencils can be bought at the cost of one pen?",
+          "ability": "numerical",
+          "correctOptionId": "e",
+          "options": [
+            {
+              "id": "a",
+              "label": "8"
+            },
+            {
+              "id": "b",
+              "label": "2"
+            },
+            {
+              "id": "c",
+              "label": "10"
+            },
+            {
+              "id": "d",
+              "label": "4"
+            },
+            {
+              "id": "e",
+              "label": "5"
+            }
+          ]
+        },
+        {
+          "id": "ap-n-05",
+          "prompt": "In which of the following ways could 182 books be packed?",
+          "ability": "numerical",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "12 boxes with 12 books"
+            },
+            {
+              "id": "b",
+              "label": "15 boxes with 10 books"
+            },
+            {
+              "id": "c",
+              "label": "14 boxes with 13 books"
+            },
+            {
+              "id": "d",
+              "label": "25 boxes with 5 books"
+            },
+            {
+              "id": "e",
+              "label": "10 boxes with 9 books"
+            }
+          ]
+        },
+        {
+          "id": "ap-n-06",
+          "prompt": "In a test, a student attempted 4 questions and secured 40 percent marks. How many questions did he miss?",
+          "ability": "numerical",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "4"
+            },
+            {
+              "id": "b",
+              "label": "3"
+            },
+            {
+              "id": "c",
+              "label": "6"
+            },
+            {
+              "id": "d",
+              "label": "12"
+            },
+            {
+              "id": "e",
+              "label": "2"
+            }
+          ]
+        },
+        {
+          "id": "ap-n-07",
+          "prompt": "A board 11 ft 3 inches long is divided into five equal parts. What is the length of each part?",
+          "ability": "numerical",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "2 ft 3 inches"
+            },
+            {
+              "id": "b",
+              "label": "3 ft 4 inches"
+            },
+            {
+              "id": "c",
+              "label": "6 ft 2 inches"
+            },
+            {
+              "id": "d",
+              "label": "2 ft 4 inches"
+            },
+            {
+              "id": "e",
+              "label": "4 ft 3 inches"
+            }
+          ]
+        },
+        {
+          "id": "ap-n-08",
+          "prompt": "6389 − 1212 − 2828 = ?",
+          "ability": "numerical",
+          "correctOptionId": "b",
+          "options": [
+            {
+              "id": "a",
+              "label": "2493"
+            },
+            {
+              "id": "b",
+              "label": "2349"
+            },
+            {
+              "id": "c",
+              "label": "2934"
+            },
+            {
+              "id": "d",
+              "label": "2394"
+            },
+            {
+              "id": "e",
+              "label": "2244"
+            }
+          ]
+        },
+        {
+          "id": "ap-n-09",
+          "prompt": "Find the average of all prime numbers between 12 and 20.",
+          "ability": "numerical",
+          "correctOptionId": "e",
+          "options": [
+            {
+              "id": "a",
+              "label": "15.33"
+            },
+            {
+              "id": "b",
+              "label": "17.33"
+            },
+            {
+              "id": "c",
+              "label": "13.33"
+            },
+            {
+              "id": "d",
+              "label": "14.33"
+            },
+            {
+              "id": "e",
+              "label": "16.33"
+            }
+          ]
+        },
+        {
+          "id": "ap-n-10",
+          "prompt": "A man buys a toy for Rs. 100 and sells it for Rs. 150. His gain percent is:",
+          "ability": "numerical",
+          "correctOptionId": "b",
+          "options": [
+            {
+              "id": "a",
+              "label": "40%"
+            },
+            {
+              "id": "b",
+              "label": "50%"
+            },
+            {
+              "id": "c",
+              "label": "45%"
+            },
+            {
+              "id": "d",
+              "label": "15%"
+            },
+            {
+              "id": "e",
+              "label": "25%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Same, opposite, or neither",
+      "questions": [
+        {
+          "id": "ap-s-01",
+          "prompt": "Omit …… Exit",
+          "ability": "verbal",
+          "correctOptionId": "neither",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-02",
+          "prompt": "Victory …… Defeat",
+          "ability": "verbal",
+          "correctOptionId": "opposite",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-03",
+          "prompt": "Calm …… Peaceful",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-04",
+          "prompt": "Diminish …… Lesson",
+          "ability": "verbal",
+          "correctOptionId": "neither",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-05",
+          "prompt": "Harsh …… Severe",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-06",
+          "prompt": "Candid …… Frank",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-07",
+          "prompt": "Relate …… Narrate",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-08",
+          "prompt": "Mingle …… Mix",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-09",
+          "prompt": "Obvious …… Evident",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-10",
+          "prompt": "Dynamic …… Apathetic",
+          "ability": "verbal",
+          "correctOptionId": "opposite",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-11",
+          "prompt": "Bliss …… Happiness",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-12",
+          "prompt": "Check …… Mend",
+          "ability": "verbal",
+          "correctOptionId": "neither",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-13",
+          "prompt": "Damage …… Harm",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-14",
+          "prompt": "Attack …… Defend",
+          "ability": "verbal",
+          "correctOptionId": "opposite",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-15",
+          "prompt": "Misery …… Sorrow",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-16",
+          "prompt": "Kind …… Neat",
+          "ability": "verbal",
+          "correctOptionId": "neither",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-17",
+          "prompt": "Pardon …… Forgive",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-18",
+          "prompt": "Accept …… Reject",
+          "ability": "verbal",
+          "correctOptionId": "opposite",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-19",
+          "prompt": "Static …… Near",
+          "ability": "verbal",
+          "correctOptionId": "neither",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-20",
+          "prompt": "Familiar …… Strange",
+          "ability": "verbal",
+          "correctOptionId": "opposite",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-21",
+          "prompt": "Generous …… Liberal",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-22",
+          "prompt": "Conceal …… Reveal",
+          "ability": "verbal",
+          "correctOptionId": "opposite",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-23",
+          "prompt": "Bright …… Close",
+          "ability": "verbal",
+          "correctOptionId": "neither",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-24",
+          "prompt": "Splendid …… Grand",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-25",
+          "prompt": "Major …… Minor",
+          "ability": "verbal",
+          "correctOptionId": "opposite",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-26",
+          "prompt": "Elegant …… Graceful",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-27",
+          "prompt": "Lively …… Active",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-28",
+          "prompt": "Divine …… Famous",
+          "ability": "verbal",
+          "correctOptionId": "neither",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-29",
+          "prompt": "Humble …… Proud",
+          "ability": "verbal",
+          "correctOptionId": "opposite",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-30",
+          "prompt": "Lead …… Follow",
+          "ability": "verbal",
+          "correctOptionId": "opposite",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-31",
+          "prompt": "Liberty …… Freedom",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-32",
+          "prompt": "Plentiful …… Ample",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-33",
+          "prompt": "Loyal …… Faithful",
+          "ability": "verbal",
+          "correctOptionId": "same",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-34",
+          "prompt": "Quick …… Nice",
+          "ability": "verbal",
+          "correctOptionId": "neither",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-35",
+          "prompt": "Rigid …… Flexible",
+          "ability": "verbal",
+          "correctOptionId": "opposite",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-36",
+          "prompt": "Special …… Sad",
+          "ability": "verbal",
+          "correctOptionId": "neither",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-37",
+          "prompt": "Natural …… Artificial",
+          "ability": "verbal",
+          "correctOptionId": "opposite",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-38",
+          "prompt": "Optimism …… Pessimism",
+          "ability": "verbal",
+          "correctOptionId": "opposite",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-39",
+          "prompt": "Pleasure …… Pain",
+          "ability": "verbal",
+          "correctOptionId": "opposite",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        },
+        {
+          "id": "ap-s-40",
+          "prompt": "Pure …… Great",
+          "ability": "verbal",
+          "correctOptionId": "neither",
+          "options": [
+            {
+              "id": "same",
+              "label": "Same"
+            },
+            {
+              "id": "opposite",
+              "label": "Opposite"
+            },
+            {
+              "id": "neither",
+              "label": "Neither"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Number and letter series",
+      "questions": [
+        {
+          "id": "ap-r-01",
+          "prompt": "What comes next? 25, 20, 15, 10, (?)",
+          "ability": "numerical",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "30"
+            },
+            {
+              "id": "b",
+              "label": "12"
+            },
+            {
+              "id": "c",
+              "label": "5"
+            },
+            {
+              "id": "d",
+              "label": "35"
+            },
+            {
+              "id": "e",
+              "label": "40"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-02",
+          "prompt": "What comes next? A10, C30, (?), G70, I90",
+          "ability": "numerical",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "E50"
+            },
+            {
+              "id": "b",
+              "label": "D50"
+            },
+            {
+              "id": "c",
+              "label": "D60"
+            },
+            {
+              "id": "d",
+              "label": "E60"
+            },
+            {
+              "id": "e",
+              "label": "F50"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-03",
+          "prompt": "What comes next? Z-A, Y-B, X-C, W-D, (?)",
+          "ability": "numerical",
+          "correctOptionId": "b",
+          "options": [
+            {
+              "id": "a",
+              "label": "E-V"
+            },
+            {
+              "id": "b",
+              "label": "V-E"
+            },
+            {
+              "id": "c",
+              "label": "Y-D"
+            },
+            {
+              "id": "d",
+              "label": "A-W"
+            },
+            {
+              "id": "e",
+              "label": "V-B"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-04",
+          "prompt": "What comes next? 11.9, 10.8, 9.7, 8.6, (?)",
+          "ability": "numerical",
+          "correctOptionId": "e",
+          "options": [
+            {
+              "id": "a",
+              "label": "10.7"
+            },
+            {
+              "id": "b",
+              "label": "6.8"
+            },
+            {
+              "id": "c",
+              "label": "5.7"
+            },
+            {
+              "id": "d",
+              "label": "4.5"
+            },
+            {
+              "id": "e",
+              "label": "7.5"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-05",
+          "prompt": "What comes next? 201, (?), 221, 231, 241",
+          "ability": "numerical",
+          "correctOptionId": "b",
+          "options": [
+            {
+              "id": "a",
+              "label": "234"
+            },
+            {
+              "id": "b",
+              "label": "211"
+            },
+            {
+              "id": "c",
+              "label": "311"
+            },
+            {
+              "id": "d",
+              "label": "111"
+            },
+            {
+              "id": "e",
+              "label": "223"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-06",
+          "prompt": "What comes next? H, J, M, (?), V",
+          "ability": "numerical",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "P"
+            },
+            {
+              "id": "b",
+              "label": "S"
+            },
+            {
+              "id": "c",
+              "label": "Q"
+            },
+            {
+              "id": "d",
+              "label": "K"
+            },
+            {
+              "id": "e",
+              "label": "W"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-07",
+          "prompt": "What comes next? (?), 18, 27, 36, 45",
+          "ability": "numerical",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "9"
+            },
+            {
+              "id": "b",
+              "label": "12"
+            },
+            {
+              "id": "c",
+              "label": "5"
+            },
+            {
+              "id": "d",
+              "label": "2"
+            },
+            {
+              "id": "e",
+              "label": "11"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-08",
+          "prompt": "What comes next? B, E, H, K, (?)",
+          "ability": "numerical",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "L"
+            },
+            {
+              "id": "b",
+              "label": "E"
+            },
+            {
+              "id": "c",
+              "label": "D"
+            },
+            {
+              "id": "d",
+              "label": "N"
+            },
+            {
+              "id": "e",
+              "label": "P"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-09",
+          "prompt": "What comes next? 60, 52, 44, (?), 28",
+          "ability": "numerical",
+          "correctOptionId": "b",
+          "options": [
+            {
+              "id": "a",
+              "label": "32"
+            },
+            {
+              "id": "b",
+              "label": "36"
+            },
+            {
+              "id": "c",
+              "label": "42"
+            },
+            {
+              "id": "d",
+              "label": "30"
+            },
+            {
+              "id": "e",
+              "label": "26"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-10",
+          "prompt": "What comes next? 9, 16, 25, 36, (?), 64",
+          "ability": "numerical",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "49"
+            },
+            {
+              "id": "b",
+              "label": "56"
+            },
+            {
+              "id": "c",
+              "label": "34"
+            },
+            {
+              "id": "d",
+              "label": "12"
+            },
+            {
+              "id": "e",
+              "label": "81"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-11",
+          "prompt": "What comes next? 120, 135, 150, 165, (?), 195",
+          "ability": "numerical",
+          "correctOptionId": "b",
+          "options": [
+            {
+              "id": "a",
+              "label": "280"
+            },
+            {
+              "id": "b",
+              "label": "180"
+            },
+            {
+              "id": "c",
+              "label": "185"
+            },
+            {
+              "id": "d",
+              "label": "175"
+            },
+            {
+              "id": "e",
+              "label": "160"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-12",
+          "prompt": "What comes next? 3, 5, 8, 11, 14, 17, (?), 23",
+          "ability": "numerical",
+          "correctOptionId": "e",
+          "options": [
+            {
+              "id": "a",
+              "label": "22"
+            },
+            {
+              "id": "b",
+              "label": "21"
+            },
+            {
+              "id": "c",
+              "label": "18"
+            },
+            {
+              "id": "d",
+              "label": "24"
+            },
+            {
+              "id": "e",
+              "label": "20"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-13",
+          "prompt": "What comes next? 7, 10, 9, 12, 11, (?), (?)",
+          "ability": "numerical",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "14, 13"
+            },
+            {
+              "id": "b",
+              "label": "13, 12"
+            },
+            {
+              "id": "c",
+              "label": "12, 11"
+            },
+            {
+              "id": "d",
+              "label": "15, 14"
+            },
+            {
+              "id": "e",
+              "label": "12, 14"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-14",
+          "prompt": "What comes next? 3, 7, 16, 35, (?)",
+          "ability": "numerical",
+          "correctOptionId": "d",
+          "options": [
+            {
+              "id": "a",
+              "label": "70"
+            },
+            {
+              "id": "b",
+              "label": "71"
+            },
+            {
+              "id": "c",
+              "label": "73"
+            },
+            {
+              "id": "d",
+              "label": "74"
+            },
+            {
+              "id": "e",
+              "label": "72"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-15",
+          "prompt": "What comes next? DG, HK, LO, PS, TW, (?)",
+          "ability": "numerical",
+          "correctOptionId": "c",
+          "options": [
+            {
+              "id": "a",
+              "label": "ZA"
+            },
+            {
+              "id": "b",
+              "label": "XB"
+            },
+            {
+              "id": "c",
+              "label": "XA"
+            },
+            {
+              "id": "d",
+              "label": "WA"
+            },
+            {
+              "id": "e",
+              "label": "YA"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-16",
+          "prompt": "What comes next? 121, 144, 169, 196, 225, 256, (?)",
+          "ability": "numerical",
+          "correctOptionId": "e",
+          "options": [
+            {
+              "id": "a",
+              "label": "389"
+            },
+            {
+              "id": "b",
+              "label": "269"
+            },
+            {
+              "id": "c",
+              "label": "279"
+            },
+            {
+              "id": "d",
+              "label": "349"
+            },
+            {
+              "id": "e",
+              "label": "289"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-17",
+          "prompt": "What comes next? A3C, F5H, K8M, P11R, (?)",
+          "ability": "numerical",
+          "correctOptionId": "b",
+          "options": [
+            {
+              "id": "a",
+              "label": "S12T"
+            },
+            {
+              "id": "b",
+              "label": "U14W"
+            },
+            {
+              "id": "c",
+              "label": "T14S"
+            },
+            {
+              "id": "d",
+              "label": "R14S"
+            },
+            {
+              "id": "e",
+              "label": "U12V"
+            }
+          ]
+        },
+        {
+          "id": "ap-r-18",
+          "prompt": "What comes next? 10, 22, 28, 42, 48, 62, (?)",
+          "ability": "numerical",
+          "correctOptionId": "a",
+          "options": [
+            {
+              "id": "a",
+              "label": "68"
+            },
+            {
+              "id": "b",
+              "label": "72"
+            },
+            {
+              "id": "c",
+              "label": "70"
+            },
+            {
+              "id": "d",
+              "label": "74"
+            },
+            {
+              "id": "e",
+              "label": "64"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

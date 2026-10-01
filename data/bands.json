@@ -1,0 +1,31 @@
+{
+  "studyHabits": [
+    { "max": 39, "label": "Needs work" },
+    { "max": 59, "label": "Average" },
+    { "max": 79, "label": "Good" },
+    { "max": 100, "label": "Very good" }
+  ],
+  "aptitude": [
+    { "max": 39, "label": "Below average" },
+    { "max": 59, "label": "Average" },
+    { "max": 79, "label": "Above average" },
+    { "max": 100, "label": "Excellent" }
+  ],
+  "adjustment": {
+    "emotional": [
+      { "max": 4, "label": "Above average" },
+      { "max": 8, "label": "Average" },
+      { "max": 99, "label": "Below average" }
+    ],
+    "educational": [
+      { "max": 3, "label": "Above average" },
+      { "max": 6, "label": "Average" },
+      { "max": 99, "label": "Below average" }
+    ],
+    "social": [
+      { "max": 4, "label": "Above average" },
+      { "max": 9, "label": "Average" },
+      { "max": 99, "label": "Below average" }
+    ]
+  }
+}

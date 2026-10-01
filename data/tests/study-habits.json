@@ -1,0 +1,541 @@
+{
+  "key": "study_habits",
+  "title": "Study habits",
+  "minutes": 15,
+  "instructions": "These statements are about how you study. For each one, choose Always/Often or Rarely/Never. There is no right or wrong answer. You have 15 minutes.",
+  "groups": [
+    {
+      "title": "Statements",
+      "questions": [
+        {
+          "id": "sh-01",
+          "prompt": "I usually spend hours studying the night before an exam.",
+          "scale": "examination",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-02",
+          "prompt": "I go to class, but I usually doodle, daydream, or fall asleep.",
+          "scale": "concentration",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-03",
+          "prompt": "I don't know how to select what is important in the text.",
+          "scale": "learning",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-04",
+          "prompt": "I study whenever I get free time in school.",
+          "scale": "learning",
+          "reverse": false,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-05",
+          "prompt": "I study enough for my test, but when I get there my mind goes blank.",
+          "scale": "examination",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-06",
+          "prompt": "I rarely change my reading speed in response to the difficulty level of the content.",
+          "scale": "learning",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-07",
+          "prompt": "I can't express my thoughts on a paper.",
+          "scale": "examination",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-08",
+          "prompt": "I worry so much about doing well on tests that it hampers with my studying.",
+          "scale": "examination",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-09",
+          "prompt": "I try to recall the matter after reading it.",
+          "scale": "memory",
+          "reverse": false,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-10",
+          "prompt": "I need to improve my time management.",
+          "scale": "learning",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-11",
+          "prompt": "I can't sit and study for long periods of time without becoming tired or distracted.",
+          "scale": "concentration",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-12",
+          "prompt": "I often find myself getting lost in the details of reading, and I have trouble identifying the main ideas.",
+          "scale": "memory",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-13",
+          "prompt": "I need to improve how I am preparing for and taking tests.",
+          "scale": "examination",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-14",
+          "prompt": "I need to improve my reading speed.",
+          "scale": "learning",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-15",
+          "prompt": "I need to improve my writing skills.",
+          "scale": "examination",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-16",
+          "prompt": "I have scored poorly on a test because I was afraid about the test when I took it.",
+          "scale": "examination",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-17",
+          "prompt": "I continue my reading in spite of difficulties in understanding the meaning of some words.",
+          "scale": "learning",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-18",
+          "prompt": "If I spend as much time on my other activities as I want to, I don't have enough time left to study, or when I study enough, I don't have time for other activities.",
+          "scale": "learning",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-19",
+          "prompt": "I rarely try to study without the radio or TV turned on.",
+          "scale": "concentration",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-20",
+          "prompt": "When I get to the end of a chapter, I can't remember what I've just read.",
+          "scale": "memory",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-21",
+          "prompt": "I get less mark on tests even when I think I know the study material well.",
+          "scale": "examination",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-22",
+          "prompt": "I often wish that I could read faster.",
+          "scale": "learning",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-23",
+          "prompt": "I usually complete my homework the night before they are due.",
+          "scale": "learning",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-24",
+          "prompt": "I need to reduce my nervousness about taking tests.",
+          "scale": "examination",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-25",
+          "prompt": "I do not read silently.",
+          "scale": "learning",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-26",
+          "prompt": "I spend too much time studying.",
+          "scale": "learning",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-27",
+          "prompt": "I need to improve my concentration when I am studying.",
+          "scale": "concentration",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-28",
+          "prompt": "I need to improve my reading comprehension.",
+          "scale": "memory",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-29",
+          "prompt": "I often study in a disorganized way before the test.",
+          "scale": "examination",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-30",
+          "prompt": "I can't keep up with my assignments, and then I have to finish them the night before submission.",
+          "scale": "learning",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-31",
+          "prompt": "When I am asked to write an essay I feel so excited to start writing it.",
+          "scale": "learning",
+          "reverse": false,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-32",
+          "prompt": "I get nervous when test dates are announced.",
+          "scale": "examination",
+          "reverse": true,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        },
+        {
+          "id": "sh-33",
+          "prompt": "In the examination, I read the entire question paper carefully in the beginning.",
+          "scale": "examination",
+          "reverse": false,
+          "options": [
+            {
+              "id": "often",
+              "label": "Always/Often"
+            },
+            {
+              "id": "rarely",
+              "label": "Rarely/Never"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

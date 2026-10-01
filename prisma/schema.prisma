@@ -1,0 +1,73 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String          @id @default(cuid())
+  email        String          @unique
+  passwordHash String
+  role         String
+  createdAt    DateTime        @default(now())
+  profile      StudentProfile?
+  attempt      Attempt?
+}
+
+model StudentProfile {
+  id        String @id @default(cuid())
+  userId    String @unique
+  user      User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  fullName  String
+  phone     String
+  school    String
+  className String @default("9")
+  city      String
+}
+
+model Attempt {
+  id          String        @id @default(cuid())
+  userId      String        @unique
+  user        User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  status      String        @default("in_progress")
+  startedAt   DateTime      @default(now())
+  completedAt DateTime?
+  tests       AttemptTest[]
+  answers     Answer[]
+  result      Result?
+}
+
+model AttemptTest {
+  id          String    @id @default(cuid())
+  attemptId   String
+  attempt     Attempt   @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  testKey     String
+  status      String    @default("not_started")
+  startedAt   DateTime?
+  deadlineAt  DateTime?
+  submittedAt DateTime?
+
+  @@unique([attemptId, testKey])
+}
+
+model Answer {
+  id         String  @id @default(cuid())
+  attemptId  String
+  attempt    Attempt @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  testKey    String
+  questionId String
+  value      String
+
+  @@unique([attemptId, questionId])
+}
+
+model Result {
+  id        String   @id @default(cuid())
+  attemptId String   @unique
+  attempt   Attempt  @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  payload   String
+  createdAt DateTime @default(now())
+}

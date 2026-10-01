@@ -1,0 +1,589 @@
+{
+  "key": "adjustment",
+  "title": "Adjustment",
+  "minutes": 25,
+  "instructions": "Answer Yes or No from your own experience. This looks at feelings, school life, and getting along with people. You have 25 minutes.",
+  "groups": [
+    {
+      "title": "Statements",
+      "questions": [
+        {
+          "id": "ad-01",
+          "prompt": "Do you day-dream frequently?",
+          "scale": "emotional",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-02",
+          "prompt": "Do you enjoy social gatherings just to be with people?",
+          "scale": "social",
+          "reverse": true,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-03",
+          "prompt": "Do you like to talk to people at a party?",
+          "scale": "social",
+          "reverse": true,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-04",
+          "prompt": "Do you often have much difficulty in thinking of an appropriate remark to make in group conversation?",
+          "scale": "social",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-05",
+          "prompt": "Does criticism disturb you greatly?",
+          "scale": "emotional",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-06",
+          "prompt": "Do you often feel lonesome, even when you are with people?",
+          "scale": "emotional",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-07",
+          "prompt": "In school is it difficult for you to give an oral presentation before the class?",
+          "scale": "educational",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-08",
+          "prompt": "Have you lost weight recently?",
+          "scale": "emotional",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-09",
+          "prompt": "Do you find it easy to ask others for help?",
+          "scale": "social",
+          "reverse": true,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-10",
+          "prompt": "Are you easily moved to tears?",
+          "scale": "emotional",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-11",
+          "prompt": "Are you troubled with shyness?",
+          "scale": "emotional",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-12",
+          "prompt": "Would you feel very self-conscious if you had to volunteer an idea to start a discussion in the classroom?",
+          "scale": "educational",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-13",
+          "prompt": "Have you frequently been depressed because of low marks in school?",
+          "scale": "educational",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-14",
+          "prompt": "Have you frequently known the answer to a question in class but failed when called upon because you were afraid to speak out before the class?",
+          "scale": "educational",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-15",
+          "prompt": "Do you get discouraged easily?",
+          "scale": "emotional",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-16",
+          "prompt": "Have you frequently quarreled with your brothers or sisters?",
+          "scale": "emotional",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-17",
+          "prompt": "Do you get angry easily?",
+          "scale": "emotional",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-18",
+          "prompt": "Do you find it very difficult to speak in public?",
+          "scale": "educational",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-19",
+          "prompt": "Are you troubled with feelings of inferiority?",
+          "scale": "emotional",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-20",
+          "prompt": "Do you enjoy social dancing a great deal?",
+          "scale": "social",
+          "reverse": true,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-21",
+          "prompt": "Do you often feel self-conscious because of your personal appearance?",
+          "scale": "emotional",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-22",
+          "prompt": "Are you sometimes the leader in your friend circle?",
+          "scale": "social",
+          "reverse": true,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-23",
+          "prompt": "Are your feelings easily hurt?",
+          "scale": "emotional",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-24",
+          "prompt": "Do you ever cross the street to avoid meeting some body?",
+          "scale": "social",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-25",
+          "prompt": "Do you make friends readily?",
+          "scale": "social",
+          "reverse": true,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-26",
+          "prompt": "Are you often the centre of favorable attention at a party?",
+          "scale": "social",
+          "reverse": true,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-27",
+          "prompt": "Do you find that you tend to have a few very close friends rather than many casual acquaintances?",
+          "scale": "social",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-28",
+          "prompt": "Do you keep in the background on social occasions?",
+          "scale": "social",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-29",
+          "prompt": "Does it upset you considerably to have a teacher call on you unexpectedly?",
+          "scale": "educational",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-30",
+          "prompt": "Do you find it difficult to start a conversation with stranger?",
+          "scale": "social",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-31",
+          "prompt": "Have you frequently been absent from school because any reason there than illness?",
+          "scale": "educational",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-32",
+          "prompt": "Do you like to participate in festival gatherings and make \"whoopee\"?",
+          "scale": "social",
+          "reverse": true,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-33",
+          "prompt": "Do you feel self-conscious when you recite in class?",
+          "scale": "educational",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-34",
+          "prompt": "Do you hesitate to volunteer in a class recitation?",
+          "scale": "educational",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-35",
+          "prompt": "Does it frighten you to be alone in the dark?",
+          "scale": "emotional",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "ad-36",
+          "prompt": "Does other activities like sports or drama are more interesting that studies?",
+          "scale": "educational",
+          "reverse": false,
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

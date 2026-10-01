@@ -1,0 +1,9 @@
+flowchart LR
+  dev[Push to GitHub] --> checkout[Checkout]
+  checkout --> install[npm ci]
+  install --> prisma[Prisma generate and migrate]
+  prisma --> lint[Lint]
+  lint --> build[Next.js build]
+  build --> image[Docker image build]
+  image --> cluster[Kubernetes rolling update]
+  cluster --> monitor[Prometheus scrape and Grafana]

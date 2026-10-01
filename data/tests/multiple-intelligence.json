@@ -1,0 +1,1613 @@
+{
+  "key": "multiple_intelligence",
+  "title": "Multiple intelligence",
+  "minutes": 20,
+  "instructions": "Each question is a statement. Choose Agree, Neutral, or Disagree based on what you actually think, not what you wish were true. You have 20 minutes.",
+  "groups": [
+    {
+      "title": "Statements",
+      "questions": [
+        {
+          "id": "mi-01",
+          "prompt": "I am good at word games, like scrabble and crossword.",
+          "scale": "word",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-02",
+          "prompt": "Numbers are really interesting for me.",
+          "scale": "logic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-03",
+          "prompt": "I like drawing and painting.",
+          "scale": "picture",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-04",
+          "prompt": "I play at least one sport or physical activity on a regular basis.",
+          "scale": "body",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-05",
+          "prompt": "I like to sing.",
+          "scale": "music",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-06",
+          "prompt": "I prefer team sports rather than individual sport.",
+          "scale": "body",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-07",
+          "prompt": "I keep a personal diary to write down my thoughts and feelings.",
+          "scale": "self",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-08",
+          "prompt": "I really like to go backpacking and hiking.",
+          "scale": "nature",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-09",
+          "prompt": "I enjoy playing tongue twisters and rhymes with my friends.",
+          "scale": "word",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-10",
+          "prompt": "I like to do science experiments.",
+          "scale": "logic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-11",
+          "prompt": "I prefer to read when there are pictures.",
+          "scale": "picture",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-12",
+          "prompt": "I like working with my hands to build or make things (like sewing, model building etc).",
+          "scale": "body",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-13",
+          "prompt": "I play a musical instrument.",
+          "scale": "music",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-14",
+          "prompt": "I like to get involved in social activities at my school or in the society.",
+          "scale": "people",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-15",
+          "prompt": "I have hobbies or play sports that involve only me.",
+          "scale": "self",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-16",
+          "prompt": "My pet is one of my best friends.",
+          "scale": "nature",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-17",
+          "prompt": "English and social studies are my favorite subjects.",
+          "scale": "word",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-18",
+          "prompt": "Maths and science are my favorite subjects.",
+          "scale": "logic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-19",
+          "prompt": "I like taking pictures.",
+          "scale": "picture",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-20",
+          "prompt": "I enjoy amusement rides and other thrilling experiences.",
+          "scale": "body",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-21",
+          "prompt": "I have an impressive collection of music.",
+          "scale": "music",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-22",
+          "prompt": "I would rather go to a party or social gathering than sit at home by myself.",
+          "scale": "people",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-23",
+          "prompt": "I am ambitious and confident in my own abilities.",
+          "scale": "self",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-24",
+          "prompt": "I like watching nature documentaries.",
+          "scale": "picture",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-25",
+          "prompt": "I like using fancy words.",
+          "scale": "word",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-26",
+          "prompt": "I easily remember facts, figures and formulas.",
+          "scale": "logic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-27",
+          "prompt": "I can visualize how things could look from a different angle.",
+          "scale": "picture",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-28",
+          "prompt": "I like to spend my free time outdoors.",
+          "scale": "nature",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-29",
+          "prompt": "Singing and music make me happy.",
+          "scale": "music",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-30",
+          "prompt": "I am a very social person.",
+          "scale": "people",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-31",
+          "prompt": "On a holiday, I like to go out and meet my friends.",
+          "scale": "people",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-32",
+          "prompt": "As a kid I really enjoyed catching butterflies and watching insects.",
+          "scale": "nature",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-33",
+          "prompt": "I have a collection of my favorite books.",
+          "scale": "word",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-34",
+          "prompt": "I like to compare and contrast.",
+          "scale": "logic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-35",
+          "prompt": "At school, I find algebra easier than geometry.",
+          "scale": "logic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-36",
+          "prompt": "I learn best by practicing skills, rather than reading about them or having someone show me.",
+          "scale": "body",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-37",
+          "prompt": "I can sing in tune and can tell when a note is off key.",
+          "scale": "music",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-38",
+          "prompt": "I learn best by interacting with others.",
+          "scale": "people",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-39",
+          "prompt": "I prefer quiet, serene places.",
+          "scale": "self",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-40",
+          "prompt": "I enjoy caring for my house plants.",
+          "scale": "nature",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-41",
+          "prompt": "I have a good vocabulary.",
+          "scale": "word",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-42",
+          "prompt": "I am good at puzzles, checkers and sudoku.",
+          "scale": "logic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-43",
+          "prompt": "I prefer to read only text without the distractions of pictures.",
+          "scale": "picture",
+          "reverse": true,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-44",
+          "prompt": "I can work out mechanical things and how to fix them.",
+          "scale": "body",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-45",
+          "prompt": "I will prefer to go to an adventure park than to a musical concert.",
+          "scale": "music",
+          "reverse": true,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-46",
+          "prompt": "I like to spend time alone.",
+          "scale": "self",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-47",
+          "prompt": "I like to work in a group.",
+          "scale": "people",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-48",
+          "prompt": "I enjoy working in a garden.",
+          "scale": "nature",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-49",
+          "prompt": "I write for pleasure.",
+          "scale": "word",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-50",
+          "prompt": "I like to know how things work.",
+          "scale": "logic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-51",
+          "prompt": "I enjoy jigsaw puzzles and other visual puzzles.",
+          "scale": "picture",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-52",
+          "prompt": "I enjoy challenging experiences and activities.",
+          "scale": "body",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-53",
+          "prompt": "I am usually singing, whistling or tapping a song.",
+          "scale": "music",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-54",
+          "prompt": "I like to make new friends.",
+          "scale": "people",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-55",
+          "prompt": "Social justice issues interest me.",
+          "scale": "self",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-56",
+          "prompt": "I don't like pets as they make the house dirty.",
+          "scale": "nature",
+          "reverse": true,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-57",
+          "prompt": "My vocabulary is very limited.",
+          "scale": "word",
+          "reverse": true,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-58",
+          "prompt": "I enjoy troubleshooting something that isn't working properly.",
+          "scale": "logic",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-59",
+          "prompt": "I can read and interpret maps easily.",
+          "scale": "picture",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-60",
+          "prompt": "I prefer to sit and read rather than spending time outdoors.",
+          "scale": "body",
+          "reverse": true,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-61",
+          "prompt": "Remembering song lyrics is easy for me.",
+          "scale": "music",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-62",
+          "prompt": "Study groups are very productive for me.",
+          "scale": "people",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-63",
+          "prompt": "I enjoy individual sports best.",
+          "scale": "self",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-64",
+          "prompt": "I enjoy visiting national parks and the zoo.",
+          "scale": "nature",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-65",
+          "prompt": "I enjoy reading books and magazines.",
+          "scale": "word",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-66",
+          "prompt": "I find strategy based games like chess very boring.",
+          "scale": "logic",
+          "reverse": true,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-67",
+          "prompt": "If someone reads a story I can vividly imagine the scenes in my head.",
+          "scale": "picture",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-68",
+          "prompt": "I love to dance.",
+          "scale": "body",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-69",
+          "prompt": "I am not interested in music.",
+          "scale": "music",
+          "reverse": true,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-70",
+          "prompt": "Being the centre of attention makes me happy.",
+          "scale": "people",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-71",
+          "prompt": "I like to be around people rather than being alone.",
+          "scale": "people",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-72",
+          "prompt": "It is sad that the number of wild animals is decreasing day by day.",
+          "scale": "nature",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-73",
+          "prompt": "I don't like reading books.",
+          "scale": "word",
+          "reverse": true,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-74",
+          "prompt": "I dislike following a schedule.",
+          "scale": "self",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-75",
+          "prompt": "I like to make scrapbooks and photo albums.",
+          "scale": "picture",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-76",
+          "prompt": "I do not like outdoor sports.",
+          "scale": "body",
+          "reverse": true,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-77",
+          "prompt": "I remember things by putting them in rhyme.",
+          "scale": "music",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-78",
+          "prompt": "I prefer to study alone.",
+          "scale": "self",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-79",
+          "prompt": "When around other people, I keep to myself.",
+          "scale": "self",
+          "reverse": false,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        },
+        {
+          "id": "mi-80",
+          "prompt": "I like to stay indoors rather than outdoors.",
+          "scale": "nature",
+          "reverse": true,
+          "options": [
+            {
+              "id": "agree",
+              "label": "Agree"
+            },
+            {
+              "id": "neutral",
+              "label": "Neutral"
+            },
+            {
+              "id": "disagree",
+              "label": "Disagree"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
